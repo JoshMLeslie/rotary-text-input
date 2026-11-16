@@ -59,6 +59,44 @@ A fixed rod along the forearm line, anchored at both ends in uprights on a base 
 - Worst spurious roll moment: a one-sided chord, a couple of newtons at a couple of centimeters. Intentional palm torque: the forearm's weight behind a ~5 cm lever — an order of magnitude more. Detent breakaway lives in that gap. It is a number, not a feel.
 - Stiffness check that killed the earlier trough design: 2 N mid-span over a 15–20 cm span on a small rod deflects hundredths of a millimeter — continuous edge support buys nothing real.
 
+### Isometric view — assembly overview
+
+x = rod/forearm direction, rising back-right; z = key row, running left-right; the near post is the elbow side. Hidden lines dotted.
+
+```text
+y
+|  x: rod / forearm ↗                     roll ±45° (7×15°)
++-- z: keys / across hand                     far bearing
+                                         ___o_____
+palm rides the top;         ______________·______
+heel near bearing →      /             ·     / |
+                        / ##  ##  ##  ##  ##/   | ← keys 1-5
+near bearing +        /             ·     /     |
+bias collar:        /             ·     /       |
+crown + hall;     /___________________/       /
+rotate + lock     |           ·       |     /
+once = roll bias  |         o         |   /________________
+                  |    ___=_____·     | /               / |
+                  |__/__=____/·|______|               /   |
+                   ___o_____·  |                    /   /
+                   |      ·| /                    /   /
+                   |    ·  |                    /   /
+                   |  ·    |                  /   /
+                   |·      |                /   /
+                  /|       |              /   /
+                /  |       |            /   /
+              /    |       |          /   /
+            /      |_______|        /   /
+          /_______________________/   /
+          | [X]               (o) | /
+          |_______________________|
+
+BASE PLATE — yaw = placement (free); rubber end-stops on its top at the ±z edges
+[X] pitch hinge (z-axis) · (o) curved slot + lock · o = bearing · posts: height set once
+· = hidden line: rod through the chunk; base edge behind the post.
+Far post rises behind the chunk — only its top edge and bearing show.
+```
+
 ### Side view
 
 Camera on z; the key row runs into the page; drawn at 0° roll.
